@@ -48,7 +48,7 @@ public class StudentDao {
         }
 
     }
-
+    /*this method receives an entity from manager and saves it into database*/
     public Boolean save(StudentEntity entity) throws SQLException {
         String query = "INSERT INTO student(id,name) VALUES(?,?)";
         ps = connection.prepareStatement(query);
