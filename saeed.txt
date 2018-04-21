@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-Hello I am basterd and I love coding java-
-And also i love working with git 
-=======
 Hello I am basterd and I love coding java
 linux is my faviorite OS. currently I'm on linux-mint 19 and it is good.
->>>>>>> 51053dc606415476e02e8427d595832a4b463af8
